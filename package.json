@@ -142,7 +142,7 @@
     "lodash": "4.17.21",
     "long": "4.0.0",
     "lru-cache": "6.0.0",
-    "mac-screen-capture-permissions": "2.0.0",
+    "mac-screen-capture-permissions": "2.1.0",
     "memoizee": "0.4.14",
     "moment": "2.29.4",
     "mp4box": "0.5.2",
