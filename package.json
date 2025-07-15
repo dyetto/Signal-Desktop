@@ -181,7 +181,7 @@
     "redux-thunk": "2.3.0",
     "redux-ts-utils": "3.2.2",
     "reselect": "4.1.2",
-    "rimraf": "2.6.2",
+    "rimraf": "4.3.1",
     "sanitize.css": "11.0.0",
     "semver": "5.7.2",
     "split2": "4.0.0",
